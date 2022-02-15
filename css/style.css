@@ -1,0 +1,45 @@
+*{
+	text-align: center;
+}
+h1{
+	margin: 0px 0px 0px 445px;
+	background-color: yellow;
+	font-size: 40px;
+	width: 700px;
+}
+.imagem{
+	margin: 0px 890px 0px 288px;
+}
+.texto{
+	width: 500px;
+	text-align:justify;
+	margin: -170px 0px 0px 635px;
+}
+.menu ul li{
+	display: inline;
+}
+.menu ul li a{
+	padding: 25px 25px;
+	display: inline-block;
+	color: black;
+	font-size: 25px;
+}
+.menu ul li a:hover{
+	color: red;
+	transition: top 0.4s;
+}
+
+body{
+	background-color:firebrick;
+	background-image: url('pizza4.jpg');
+	background-image: no-repeat;
+	background-size: cover;
+}
+.enviar{
+	background-color: #00FFFF;
+	width: 150px;
+	height: 40px;
+	border-radius: 10px;
+	color: #fff;
+	cursor: pointer;
+}
